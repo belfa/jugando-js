@@ -1,0 +1,23 @@
+{
+  "name": "jugando-js basico",
+  "authors": [
+    "Miguel Patiño <miguel36410@gmail.com>"
+  ],
+  "description": "Échando un vistazo al mundillo de javascript",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cookies-js": "^1.2.3",
+    "underscore": "^1.8.3",
+    "jquery": "^3.2.1"
+  }
+}
